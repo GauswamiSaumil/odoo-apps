@@ -15,7 +15,7 @@
     "category": "Web",
     "images": ["static/description/banner.jpg"],
     "depends": [
-        'web', "sale",
+        "web", "sale_management"
     ],
     "data": [
         "view/web_assets.xml",
