@@ -2,7 +2,7 @@
 
 {
     "name": "Multi-selection for one2many fields",
-    "version": "12.0.1.0.0",
+    "version": "13.0.1.0.0",
     "author": "Riddhi Patel",
     "summary": "This widget adds the capability for selecting multiple records in one2many fields"
                " and work on those records",
